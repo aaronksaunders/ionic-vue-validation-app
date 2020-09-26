@@ -36,7 +36,6 @@ export default defineComponent({
     IonButton,
   },
   setup() {
-  
 
     return {
       router: useRouter(),
