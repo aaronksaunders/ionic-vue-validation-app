@@ -12,7 +12,6 @@
   "dependencies": {
     "@ionic/vue": "^0.5.0",
     "@ionic/vue-router": "^0.5.0",
-    "@vee-validate/rules": "^4.0.0-alpha.1",
     "@vuelidate/core": "^2.0.0-alpha.4",
     "@vuelidate/validators": "2.0.0-alpha.2",
     "core-js": "^3.6.5",
